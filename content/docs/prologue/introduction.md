@@ -24,7 +24,7 @@ Our primary motivation is to help academics who want to find and reproduce scien
 
 We have two primary goals at repro.rocks: a reactive goal and a proactive goal.
 
-1. Firstly (**Reactive**), we want to help scientists, engineers, students and hobbyists (non-exclusive, anyone who's interested) to be able to access, understand and reproduce experimental code. This is a reaction to a lot of experimental code being very difficult or impossible to reproduce even within a very short timeframe of the work being published (e.g. 6-12 months). This is a particular problem in the field of deep learning where the primary authors of repro.rocks hail from.
+1. Firstly (**Reactive**), we want to help scientists, engineers, students and hobbyists (non-exclusive, anyone who's interested) to be able to access, understand and reproduce experimental code. Currently, a lot of experimental code being very difficult or impossible to reproduce even within a very short timeframe of the work being published (e.g. 6-12 months). This is a particular problem in the field of deep learning where the primary authors of repro.rocks hail from.
 
 2. Secondly (**Proactive**), we want to help  scientists, engineers, students and hobbyists (non-exclusive, anyone who's interested) to make their work accessible and reproducible for peers their peers. We hope to normalise the expectation that inter-disciplinery computer-aided-research should be accompanied by working, reproducable code that others can use easily months or even years after the work is published.
 
