@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Repro.Rocks"
+title = "repro.rocks"
 titleSeparator = "-"
 titleAddition = "Reproducable Experimental Code Rocks"
-description = "Repro.rocks is a community-led hub for reproducible academic code."
+description = "repro.rocks is a community-led hub for reproducible academic code."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
