@@ -1,7 +1,7 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title: "Reproducable Experimental Code Rocks"
+description: "Repro.rocks is a community-led hub for writing, finding and using reproducible academic/experimental code."
+lead: "Repro.rocks is a community-led hub for writing, finding and using reproducible academic/experimental code."
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
