@@ -1,13 +1,13 @@
 # Test and build your Hyas project
 # For more information see: https://henkverlinde.com/continuous-integration-workflow-for-your-hyas-project/
 
-name: Hyas CI
+name: Build Website
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
 
 jobs:
   build:
